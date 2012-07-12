@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Me precious blog!]]></title>
+  <link href="http://nathanmlong.com/blog/atom.xml" rel="self"/>
+  <link href="http://nathanmlong.com/blog/"/>
+  <updated>2012-07-04T09:06:24-04:00</updated>
+  <id>http://nathanmlong.com/blog/</id>
+  <author>
+    <name><![CDATA[Nathan Long]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first post on octopress]]></title>
+    <link href="http://nathanmlong.com/blog/blog/2012/07/04/first-post-on-octopress/"/>
+    <updated>2012-07-04T08:07:00-04:00</updated>
+    <id>http://nathanmlong.com/blog/blog/2012/07/04/first-post-on-octopress</id>
+    <content type="html"><![CDATA[<h2>So! Does it work?</h2>
+
+<p>I reckon it might work.</p>
+
+<figure class='code'><figcaption><span>a snippet </span><a href='http://github.com/nathanl'>My Github page</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Foo</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">test</span>
+</span><span class='line'>    <span class="nb">puts</span> <span class="s2">&quot;does this get highlighted?&quot;</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Who can say?</h2>
+
+<p>Not I. Not yet.</p>
+
+<h2>A new section</h2>
+
+<p>Do I see it?</p>
+]]></content>
+  </entry>
+  
+</feed>
